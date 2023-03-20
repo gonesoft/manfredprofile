@@ -13,9 +13,35 @@
       "location": {
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/gonesoft"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/6164047/gregory-j-sosa"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/gregorysosa/"
+      }
+    ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/gregorysosa/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/6164047/gregory-j-sosa"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
